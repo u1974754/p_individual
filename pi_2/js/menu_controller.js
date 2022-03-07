@@ -14,5 +14,9 @@ function options(){
 	// TODO: Open options menu
 	console.log("Options menu button");
 }
+function backhome(){
+	//Vuelta al menú principal
+	loadpage("./p_individual/index.html");
+}
 
 
