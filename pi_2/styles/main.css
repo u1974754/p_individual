@@ -2,7 +2,8 @@ body {
 	background-color: aqua;
 }
 #title{
-	font-size: 26px;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     font-size: 50px;
 	line-height: 75px;
 }
 
