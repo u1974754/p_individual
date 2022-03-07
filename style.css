@@ -1,9 +1,19 @@
 body {
     background-color: aqua;
     }
-    #title {
+#title {
      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
      font-size: 50px;
      padding-left: 600px;
     }
+
+button{
+    display:block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 300px;
+	height: 75px;
+	font-size: 16px;
+	margin-top: 10px;
+}
    

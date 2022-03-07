@@ -7,6 +7,7 @@ function exit (){
 	if (name != ""){
 		alert("Leaving " + name + "'s game");
 	}
+	
 	name = "";
 }
 
@@ -16,7 +17,7 @@ function options(){
 }
 function backhome(){
 	//Vuelta al menú principal
-	loadpage("./p_individual/index.html");
+	loadpage("../index.html");
 }
 
 
