@@ -43,3 +43,8 @@ button.menu-object:hover:not(:active){
 	padding: 20px;
 	height: 100px;
 }
+#image{
+	display:block;
+	margin-left: 50 px;
+	margin-right: 50 px;
+}
