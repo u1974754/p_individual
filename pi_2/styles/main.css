@@ -1,6 +1,6 @@
 body {
-	
 	background-color: aqua;
+	
 }
 #title{
 	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -9,6 +9,7 @@ body {
 }
 
 .menu-object{
+
 	display:block;
 	margin-left: auto;
 	margin-right: auto;
@@ -33,4 +34,6 @@ button.menu-object:hover:not(:active){
 	width: 325px;
 	height: 85px;
 }
-
+#cards {
+	margin-left: 500px;
+}
