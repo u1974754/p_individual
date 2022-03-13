@@ -36,15 +36,16 @@ button.menu-object:hover:not(:active){
 	height: 85px;
 }
 
-/* .cards {
-	display:block;
+ .cards {
+	display:flex;
 	justify-content: center;
 	align-items: center;
 	padding: 20px;
 	height: 100px;
 }
-/* #image{
+
+ #image{
 	display:block;
 	margin-left: 50 px;
 	margin-right: 50 px;
-} */
+} 
