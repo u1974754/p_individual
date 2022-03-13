@@ -2,26 +2,20 @@ body {
     background-color: aqua;
     }
 
-    .menu-object{
 
-        display:block;
+    #boton_p2{
+        display: grid;
         margin-left: auto;
         margin-right: auto;
-        width: 300px;
-        height: 75px;
-        font-size: 16px;
-        
-    }
-    #boton{
-        display: grid;
         justify-items: center;
         align-items: center;
         margin-top: 100px;
         width: 100px;
         height: 50px;
+        font-size: 16px;
     
     }
-    
+
 #title {
      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
      font-size: 50px;
