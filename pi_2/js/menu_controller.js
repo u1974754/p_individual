@@ -11,6 +11,9 @@ function exit (){
 	
 	name = "";
 }
+function back_to_menu(){
+	loadpage("./index.html");
+}
 
 function options(){
 	// TODO: Open options menu
