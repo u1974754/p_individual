@@ -7,6 +7,7 @@ function exit (){
 	if (name != ""){
 		alert("Leaving " + name + "'s game");
 	}
+	loadpage("../index.html");
 	
 	name = "";
 }
@@ -15,9 +16,6 @@ function options(){
 	// TODO: Open options menu
 	console.log("Options menu button");
 }
-function backhome(){
-	//Vuelta al menú principal
-	loadpage("../index.html");
-}
+
 
 
