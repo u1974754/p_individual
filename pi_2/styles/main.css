@@ -40,8 +40,3 @@ button.menu-object:hover:not(:active){
 	height: 100px;
 
 }
-#image{
-	display: block;
-	margin-left: 50px;
-	margin-right: 50px;
-}
