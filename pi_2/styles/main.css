@@ -32,6 +32,16 @@ button.menu-object:hover:not(:active){
 	width: 325px;
 	height: 85px;
 }
-#cards {
-	text-align: center;
+.cards {
+	display:flex;
+	justify-content: center;
+	align-items: center;
+	padding: 20px;
+	height: 100px;
+
+}
+#image{
+	display: block;
+	margin-left: 50px;
+	margin-right: 50px;
 }
