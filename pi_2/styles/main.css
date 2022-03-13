@@ -31,8 +31,8 @@ button.menu-object:hover:not(:active){
 	font-size: 22px;
 	width: 325px;
 	height: 85px;
-	text-align: center;;
 }
+
 .cards {
 	display:flex;
 	justify-content: center;
