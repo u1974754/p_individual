@@ -36,7 +36,7 @@ button.menu-object:hover:not(:active){
 	height: 85px;
 }
 
-.cards {
+/* .cards {
 	display:block;
 	justify-content: center;
 	align-items: center;
