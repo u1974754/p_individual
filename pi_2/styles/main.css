@@ -25,6 +25,7 @@ button.menu-object:active{
 	font-size: 18px;
 	width: 275px;
 	height: 70px;
+	text-align: center;
 }
 
 button.menu-object:hover:not(:active){
