@@ -3,7 +3,7 @@ body {
     }
 
 
-    #boton_p2{
+.boton_index{
         display: grid;
         margin-left: auto;
         margin-right: auto;
@@ -16,13 +16,14 @@ body {
     
     }
 
+
 #title {
      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
      font-size: 50px;
      padding-left: 600px;
     }
 
-#boton_p2{
+.boton_index{
     display: grid;
 }
 
