@@ -14,7 +14,7 @@ var options = function(){
 	var vue_instance = new Vue({
 		el: "#options_id",
 		data: {
-			num: 2,
+			num: "config",
 			dificulty: "normal"
 		},
 		created: function(){

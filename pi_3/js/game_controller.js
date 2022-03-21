@@ -8,7 +8,7 @@ var game = new Vue({
 		username:'',
 		current_card: [],
 		items: [],
-		num_cards: "config",
+		num_cards: 2,
 		bad_clicks: 0
 	},
 	created: function(){
