@@ -9,6 +9,7 @@ var load = function(){
 	var json = localStorage.getItem("config") || '{"cards":2,"dificulty":"hard"}';
 	options_data = JSON.parse(json);
 };
+load();
 
 
 var game = new Vue({
