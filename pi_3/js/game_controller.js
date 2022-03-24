@@ -33,13 +33,20 @@ var game = new Vue({
 		}
 	},
 	methods: {
+		vercartas: function(){
+			if (dificulty = "hard"){
+				items.texture == front;
+			}
+		},
+
 		clickCard: function(i){
 			if (!this.current_card[i].done && this.current_card[i].texture === back)
 				Vue.set(this.current_card, i, {done: false, texture: this.items[i]});
 		}
 	},
 	watch: {
-		current_card: function(value){
+			current_card: function(value){
+
 			if (value.texture === back) return;
 			var front = null;
 			var i_front = -1;
